@@ -12,6 +12,8 @@ namespace demo_app
         {
             Console.WriteLine("Hello!");
             Console.WriteLine("User1");
+            Console.WriteLine("User2");
+            Console.WriteLine("Result");
         }
     }
 }
