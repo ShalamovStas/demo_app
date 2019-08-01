@@ -10,7 +10,7 @@ namespace demo_app
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello user1!");
+            Console.WriteLine("Hello!");
         }
     }
 }
